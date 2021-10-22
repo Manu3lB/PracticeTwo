@@ -1,0 +1,2 @@
+# PracticeTwo
+Puzzle en JS
